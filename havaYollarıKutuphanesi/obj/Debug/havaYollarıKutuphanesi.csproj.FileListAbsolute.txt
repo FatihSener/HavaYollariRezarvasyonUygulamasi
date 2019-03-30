@@ -1,0 +1,12 @@
+C:\Users\Fatih\Desktop\sprin2_havaYolları\havaYollarıKutuphanesi\bin\Debug\havaYollarıKutuphanesi.dll
+C:\Users\Fatih\Desktop\sprin2_havaYolları\havaYollarıKutuphanesi\bin\Debug\havaYollarıKutuphanesi.pdb
+C:\Users\Fatih\Desktop\sprin2_havaYolları\havaYollarıKutuphanesi\obj\Debug\havaYollarıKutuphanesi.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\sprin2_havaYolları\havaYollarıKutuphanesi\obj\Debug\havaYollarıKutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\sprin2_havaYolları\havaYollarıKutuphanesi\obj\Debug\havaYollarıKutuphanesi.dll
+C:\Users\Fatih\Desktop\sprin2_havaYolları\havaYollarıKutuphanesi\obj\Debug\havaYollarıKutuphanesi.pdb
+C:\Users\bjk_f\Desktop\Yeni\Çalışmalarım\SPRİNT2\sprin2_havaYolları\havaYollarıKutuphanesi\bin\Debug\havaYollarıKutuphanesi.dll
+C:\Users\bjk_f\Desktop\Yeni\Çalışmalarım\SPRİNT2\sprin2_havaYolları\havaYollarıKutuphanesi\bin\Debug\havaYollarıKutuphanesi.pdb
+C:\Users\bjk_f\Desktop\Yeni\Çalışmalarım\SPRİNT2\sprin2_havaYolları\havaYollarıKutuphanesi\obj\Debug\havaYollarıKutuphanesi.csprojAssemblyReference.cache
+C:\Users\bjk_f\Desktop\Yeni\Çalışmalarım\SPRİNT2\sprin2_havaYolları\havaYollarıKutuphanesi\obj\Debug\havaYollarıKutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\bjk_f\Desktop\Yeni\Çalışmalarım\SPRİNT2\sprin2_havaYolları\havaYollarıKutuphanesi\obj\Debug\havaYollarıKutuphanesi.dll
+C:\Users\bjk_f\Desktop\Yeni\Çalışmalarım\SPRİNT2\sprin2_havaYolları\havaYollarıKutuphanesi\obj\Debug\havaYollarıKutuphanesi.pdb
